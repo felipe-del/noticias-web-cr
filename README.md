@@ -4,7 +4,8 @@
 **Curso:** EIF-511 Arquitectura de Información
 **Universidad:** Universidad Nacional — Escuela de Informática
 
-**URL del sitio publicado en Netlify:** _(reemplazar con el enlace real una vez publicado, por ejemplo `https://tarea2-brenes-noticias.netlify.app`)_
+**URL del sitio publicado en Netlify:**  
+[https://isaac-news.netlify.app/](https://isaac-news.netlify.app/)
 
 ## Descripción
 
