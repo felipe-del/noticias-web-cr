@@ -57,10 +57,8 @@ Abrir `http://localhost:3000`.
    del proyecto directamente en Netlify, sin `node_modules`).
 2. En Netlify: **Add new site → Import an existing project**.
 3. Build command: `npm run build`
-4. Publish directory: `.output/public`
-5. Netlify detectará automáticamente Nuxt 3; si se solicita, agregar el
-   plugin `@netlify/plugin-nuxt` (ya incluido en `netlify.toml`).
-6. Desplegar y copiar la URL generada por Netlify en la parte superior de
+4. Publish directory: `dist`
+5. Desplegar y copiar la URL generada por Netlify en la parte superior de
    este README.
 
 ## Estructura relevante
